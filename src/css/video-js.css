@@ -345,8 +345,7 @@ so you can upgrade to newer versions easier. You can remove all these styles by 
   left: 0;
   height: 0.5em;
 
-  background: #66A8CC
-    url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAP0lEQVQIHWWMAQoAIAgDR/QJ/Ub//04+w7ZICBwcOg5FZi5iBB82AGzixEglJrd4TVK5XUJpskSTEvpdFzX9AB2pGziSQcvAAAAAAElFTkSuQmCC)
+  background: #f95500
     -50% 0 repeat;
 }
 .vjs-default-skin .vjs-volume-bar .vjs-volume-handle {
@@ -434,8 +433,7 @@ so you can upgrade to newer versions easier. You can remove all these styles by 
     Also using a paralax effect to make the lines move backwards.
       The -50% left position makes that happen.
   */
-  background: #66A8CC
-    url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAP0lEQVQIHWWMAQoAIAgDR/QJ/Ub//04+w7ZICBwcOg5FZi5iBB82AGzixEglJrd4TVK5XUJpskSTEvpdFzX9AB2pGziSQcvAAAAAAElFTkSuQmCC)
+  background: #f95500
     -50% 0 repeat;
 }
 .vjs-default-skin .vjs-load-progress {
